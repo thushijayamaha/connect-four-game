@@ -7,18 +7,6 @@ The player competes against a computer-controlled opponent on a classic **7 × 6
 🌐 **Live Demo:**  
 https://connect-four-game-chi-lemon.vercel.app
 
----
-
-## 📸 Project Preview
-
-Add your game screenshot here:
-
-```md
-![Connect Four Game](docs/connect-four-preview.png)
-```
-
----
-
 ## ✨ Features
 
 ### 🎮 Connect Four Gameplay
