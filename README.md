@@ -5,8 +5,7 @@ A modern and interactive **Connect Four web game** built with **React, JavaScrip
 The player competes against a computer-controlled opponent on a classic **7 × 6 Connect Four board**. The game includes tactical computer AI, animated disc drops, a 3D-style game board, score tracking, win detection, responsive design, and accessibility support.
 
 🌐 **Live Demo:**  
-https://connect-four-game-chi-lemon.vercel.app
-
+(https://connect-four-game-thushi.vercel.app/)
 ## ✨ Features
 
 ### 🎮 Connect Four Gameplay
